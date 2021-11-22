@@ -10,13 +10,7 @@ import { getStorage } from 'firebase/storage';
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 
 const firebaseConfig = {
-  apiKey: process.env.API_KEY,
-  authDomain: "vhr-infra.firebaseapp.com",
-  projectId: "vhr-infra",
-  storageBucket: "vhr-infra.appspot.com",
-  messagingSenderId: "514523510644",
-  appId: "1:514523510644:web:7d7686081c086cf2425e21",
-  measurementId: "G-7RWBP5WSE6"
+//   Your Firebase Config Information
 };
 
 // Initialize Firebase
